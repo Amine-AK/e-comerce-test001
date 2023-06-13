@@ -1,0 +1,10 @@
+.privacy{
+    bottom: -16px;
+    display: flex;
+    position: absolute;
+    min-width: 100%;
+    height: 60px;
+}.link-list{
+    bottom: 42px;
+    position: relative;
+}
